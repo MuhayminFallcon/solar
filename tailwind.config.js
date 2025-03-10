@@ -1,4 +1,3 @@
-import { theme } from "highcharts";
 import { twColors } from "./plugins/vuetify/tw-colors";
 export default {
   content: ['./components/**/*.{vue,js}', './pages/**/*.{vue,js}'],
