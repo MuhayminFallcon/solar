@@ -4,8 +4,8 @@ export default defineNuxtConfig({
   compatibilityDate: '2024-11-01',
 
   devtools: { enabled: true },
-  
-  pages:true,
+
+  pages: true,
 
   build: {
     transpile: ['vuetify'],
@@ -22,7 +22,7 @@ export default defineNuxtConfig({
 
   css: [
     '~/assets/styles/css/tailwind.css',
-    '~/assets/styles/scss/main.scss', 
+    '~/assets/styles/scss/main.scss',
   ],
 
   modules: [
@@ -35,7 +35,7 @@ export default defineNuxtConfig({
   ],
 
   tailwindcss: {
-    viewer: false, 
+    viewer: false,
   },
 
   image: {
@@ -55,15 +55,18 @@ export default defineNuxtConfig({
     detectBrowserLanguage: false,
     vueI18n: './i18n.config.ts',
     strategy: 'no_prefix',
-  },  
-  
+  },
 
   vite: {
     build: {
       sourcemap: false,
       rollupOptions: {
         output: {
-          manualChunks: undefined,
+          manualChunks: (id) => {
+            if (id.includes('node_modules')) {
+              return 'vendor';
+            }
+          },
         },
       },
     },
@@ -72,7 +75,6 @@ export default defineNuxtConfig({
         transformAssetUrls,
       },
     },
-
     plugins: [
       vuetify({
         autoImport: true,
@@ -92,7 +94,7 @@ export default defineNuxtConfig({
         { name: 'description', content: 'Your project description' },
       ],
       link: [
-        { rel: 'icon', type: 'image/png',sizes: '32x32', href: '/mainLogoC.png' },
+        { rel: 'icon', type: 'image/png', sizes: '32x32', href: '/mainLogoC.png' },
       ],
     },
   },
