@@ -31,7 +31,6 @@ export default defineNuxtConfig({
     '@nuxtjs/i18n',
     '@pinia/nuxt',
     '@nuxt/image',
-    'nuxt-highcharts',
   ],
 
   tailwindcss: {
