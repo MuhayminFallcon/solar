@@ -1,0 +1,838 @@
+{
+  "missingKeys": [
+    {
+      "path": "Transform your business with our",
+      "file": "./pages/index.vue",
+      "line": 140,
+      "language": "ar"
+    },
+    {
+      "path": " Welcome to Focus Marketing Solutions! We're a creative team dedicated to driving your business forward with innovative marketing strategies. From digital marketing to social media management, we're here to help you succeed. Let's build something extraordinary together.",
+      "file": "./pages/index.vue",
+      "line": 150,
+      "language": "ar"
+    },
+    {
+      "path": "We're a creative team dedicated to driving your business forward with innovative marketing strategies. From digital marketing to social media management, we\\'re here to help you succeed.",
+      "file": "./pages/index.vue",
+      "line": 212,
+      "language": "ar"
+    },
+    {
+      "path": "Let's build something extraordinary together.",
+      "file": "./pages/index.vue",
+      "line": 214,
+      "language": "ar"
+    },
+    {
+      "path": "our services",
+      "file": "./pages/index.vue",
+      "line": 223,
+      "language": "ar"
+    },
+    {
+      "path": "transforming your online presence with innovative digital strategies",
+      "file": "./pages/index.vue",
+      "line": 224,
+      "language": "ar"
+    },
+    {
+      "path": "the company's philosophy",
+      "file": "./pages/index.vue",
+      "line": 264,
+      "language": "ar"
+    },
+    {
+      "path": "We bear the responsibility of developing the sector.",
+      "file": "./pages/index.vue",
+      "line": 271,
+      "language": "ar"
+    },
+    {
+      "path": "Elevate your brand with our comprehensive marketing solutions,including Digital Marketing, Content Creation, and Social Media Strategy. Enhance visibility through expert SEO and PPC management, ",
+      "file": "./pages/index.vue",
+      "line": 274,
+      "language": "ar"
+    },
+    {
+      "path": "clients",
+      "file": "./pages/index.vue",
+      "line": 280,
+      "language": "ar"
+    },
+    {
+      "path": "branches",
+      "file": "./pages/index.vue",
+      "line": 284,
+      "language": "ar"
+    },
+    {
+      "path": "number of employees",
+      "file": "./pages/index.vue",
+      "line": 288,
+      "language": "ar"
+    },
+    {
+      "path": "sales representative",
+      "file": "./pages/index.vue",
+      "line": 292,
+      "language": "ar"
+    },
+    {
+      "path": "statistics",
+      "file": "./pages/index.vue",
+      "line": 301,
+      "language": "ar"
+    },
+    {
+      "path": "news",
+      "file": "./pages/index.vue",
+      "line": 318,
+      "language": "ar"
+    },
+    {
+      "path": "view all news",
+      "file": "./pages/index.vue",
+      "line": 319,
+      "language": "ar"
+    },
+    {
+      "path": "Simple pricing for your Business",
+      "file": "./pages/index.vue",
+      "line": 362,
+      "language": "ar"
+    },
+    {
+      "path": "We have several powerful plans to showcase your business and get discovered as a creative entrepreneurs. Everything you need. ",
+      "file": "./pages/index.vue",
+      "line": 365,
+      "language": "ar"
+    },
+    {
+      "path": "our clients testimonials",
+      "file": "./pages/index.vue",
+      "line": 386,
+      "language": "ar"
+    },
+    {
+      "path": "ali mohammed",
+      "file": "./pages/index.vue",
+      "line": 399,
+      "language": "ar"
+    },
+    {
+      "path": "I am so happy with your company. Ever since my insurer switched to you, everything and everybody I've spoken to has been extremely, extremely pleasant, helpful, and they listen to my concerns instead of just saying okay!",
+      "file": "./pages/index.vue",
+      "line": 402,
+      "language": "ar"
+    },
+    {
+      "path": "ali mohammed",
+      "file": "./pages/index.vue",
+      "line": 410,
+      "language": "ar"
+    },
+    {
+      "path": "I am so happy with your company. it's very good company to work with Ever since my insurer switched to you, everything and everybody I've spoken to has been extremely, extremely pleasant, helpful, and they listen to my concerns instead of just saying okay!",
+      "file": "./pages/index.vue",
+      "line": 413,
+      "language": "ar"
+    },
+    {
+      "path": "ali mohammed",
+      "file": "./pages/index.vue",
+      "line": 421,
+      "language": "ar"
+    },
+    {
+      "path": "I am so happy with your company. Ever since my insurer switched to you, everything and everybody I've spoken to has been extremely, extremely pleasant, helpful, and they listen to my concerns instead of just saying okay!",
+      "file": "./pages/index.vue",
+      "line": 424,
+      "language": "ar"
+    },
+    {
+      "path": "ali mohammed",
+      "file": "./pages/index.vue",
+      "line": 432,
+      "language": "ar"
+    },
+    {
+      "path": "I am so happy with your company. Ever since my insurer switched to you, everything and everybody I've spoken to has been extremely, extremely pleasant, helpful, and they listen to my concerns instead of just saying okay!",
+      "file": "./pages/index.vue",
+      "line": 435,
+      "language": "ar"
+    },
+    {
+      "path": "Transform your business with our",
+      "file": "./pages/index.vue",
+      "line": 140,
+      "language": "en"
+    },
+    {
+      "path": " Welcome to Focus Marketing Solutions! We're a creative team dedicated to driving your business forward with innovative marketing strategies. From digital marketing to social media management, we're here to help you succeed. Let's build something extraordinary together.",
+      "file": "./pages/index.vue",
+      "line": 150,
+      "language": "en"
+    },
+    {
+      "path": "We're a creative team dedicated to driving your business forward with innovative marketing strategies. From digital marketing to social media management, we\\'re here to help you succeed.",
+      "file": "./pages/index.vue",
+      "line": 212,
+      "language": "en"
+    },
+    {
+      "path": "Let's build something extraordinary together.",
+      "file": "./pages/index.vue",
+      "line": 214,
+      "language": "en"
+    },
+    {
+      "path": "our services",
+      "file": "./pages/index.vue",
+      "line": 223,
+      "language": "en"
+    },
+    {
+      "path": "transforming your online presence with innovative digital strategies",
+      "file": "./pages/index.vue",
+      "line": 224,
+      "language": "en"
+    },
+    {
+      "path": "the company's philosophy",
+      "file": "./pages/index.vue",
+      "line": 264,
+      "language": "en"
+    },
+    {
+      "path": "We bear the responsibility of developing the sector.",
+      "file": "./pages/index.vue",
+      "line": 271,
+      "language": "en"
+    },
+    {
+      "path": "Elevate your brand with our comprehensive marketing solutions,including Digital Marketing, Content Creation, and Social Media Strategy. Enhance visibility through expert SEO and PPC management, ",
+      "file": "./pages/index.vue",
+      "line": 274,
+      "language": "en"
+    },
+    {
+      "path": "clients",
+      "file": "./pages/index.vue",
+      "line": 280,
+      "language": "en"
+    },
+    {
+      "path": "branches",
+      "file": "./pages/index.vue",
+      "line": 284,
+      "language": "en"
+    },
+    {
+      "path": "number of employees",
+      "file": "./pages/index.vue",
+      "line": 288,
+      "language": "en"
+    },
+    {
+      "path": "sales representative",
+      "file": "./pages/index.vue",
+      "line": 292,
+      "language": "en"
+    },
+    {
+      "path": "statistics",
+      "file": "./pages/index.vue",
+      "line": 301,
+      "language": "en"
+    },
+    {
+      "path": "news",
+      "file": "./pages/index.vue",
+      "line": 318,
+      "language": "en"
+    },
+    {
+      "path": "view all news",
+      "file": "./pages/index.vue",
+      "line": 319,
+      "language": "en"
+    },
+    {
+      "path": "Simple pricing for your Business",
+      "file": "./pages/index.vue",
+      "line": 362,
+      "language": "en"
+    },
+    {
+      "path": "We have several powerful plans to showcase your business and get discovered as a creative entrepreneurs. Everything you need. ",
+      "file": "./pages/index.vue",
+      "line": 365,
+      "language": "en"
+    },
+    {
+      "path": "our clients testimonials",
+      "file": "./pages/index.vue",
+      "line": 386,
+      "language": "en"
+    },
+    {
+      "path": "ali mohammed",
+      "file": "./pages/index.vue",
+      "line": 399,
+      "language": "en"
+    },
+    {
+      "path": "I am so happy with your company. Ever since my insurer switched to you, everything and everybody I've spoken to has been extremely, extremely pleasant, helpful, and they listen to my concerns instead of just saying okay!",
+      "file": "./pages/index.vue",
+      "line": 402,
+      "language": "en"
+    },
+    {
+      "path": "ali mohammed",
+      "file": "./pages/index.vue",
+      "line": 410,
+      "language": "en"
+    },
+    {
+      "path": "I am so happy with your company. it's very good company to work with Ever since my insurer switched to you, everything and everybody I've spoken to has been extremely, extremely pleasant, helpful, and they listen to my concerns instead of just saying okay!",
+      "file": "./pages/index.vue",
+      "line": 413,
+      "language": "en"
+    },
+    {
+      "path": "ali mohammed",
+      "file": "./pages/index.vue",
+      "line": 421,
+      "language": "en"
+    },
+    {
+      "path": "I am so happy with your company. Ever since my insurer switched to you, everything and everybody I've spoken to has been extremely, extremely pleasant, helpful, and they listen to my concerns instead of just saying okay!",
+      "file": "./pages/index.vue",
+      "line": 424,
+      "language": "en"
+    },
+    {
+      "path": "ali mohammed",
+      "file": "./pages/index.vue",
+      "line": 432,
+      "language": "en"
+    },
+    {
+      "path": "I am so happy with your company. Ever since my insurer switched to you, everything and everybody I've spoken to has been extremely, extremely pleasant, helpful, and they listen to my concerns instead of just saying okay!",
+      "file": "./pages/index.vue",
+      "line": 435,
+      "language": "en"
+    },
+    {
+      "path": "Transform your business with our",
+      "file": "./pages/index.vue",
+      "line": 140,
+      "language": "extracted"
+    },
+    {
+      "path": " Welcome to Focus Marketing Solutions! We're a creative team dedicated to driving your business forward with innovative marketing strategies. From digital marketing to social media management, we're here to help you succeed. Let's build something extraordinary together.",
+      "file": "./pages/index.vue",
+      "line": 150,
+      "language": "extracted"
+    },
+    {
+      "path": "our services",
+      "file": "./pages/index.vue",
+      "line": 223,
+      "language": "extracted"
+    },
+    {
+      "path": "transforming your online presence with innovative digital strategies",
+      "file": "./pages/index.vue",
+      "line": 224,
+      "language": "extracted"
+    },
+    {
+      "path": "the company's philosophy",
+      "file": "./pages/index.vue",
+      "line": 264,
+      "language": "extracted"
+    },
+    {
+      "path": "We bear the responsibility of developing the sector.",
+      "file": "./pages/index.vue",
+      "line": 271,
+      "language": "extracted"
+    },
+    {
+      "path": "Elevate your brand with our comprehensive marketing solutions,including Digital Marketing, Content Creation, and Social Media Strategy. Enhance visibility through expert SEO and PPC management, ",
+      "file": "./pages/index.vue",
+      "line": 274,
+      "language": "extracted"
+    },
+    {
+      "path": "clients",
+      "file": "./pages/index.vue",
+      "line": 280,
+      "language": "extracted"
+    },
+    {
+      "path": "branches",
+      "file": "./pages/index.vue",
+      "line": 284,
+      "language": "extracted"
+    },
+    {
+      "path": "number of employees",
+      "file": "./pages/index.vue",
+      "line": 288,
+      "language": "extracted"
+    },
+    {
+      "path": "sales representative",
+      "file": "./pages/index.vue",
+      "line": 292,
+      "language": "extracted"
+    },
+    {
+      "path": "statistics",
+      "file": "./pages/index.vue",
+      "line": 301,
+      "language": "extracted"
+    },
+    {
+      "path": "news",
+      "file": "./pages/index.vue",
+      "line": 318,
+      "language": "extracted"
+    },
+    {
+      "path": "view all news",
+      "file": "./pages/index.vue",
+      "line": 319,
+      "language": "extracted"
+    },
+    {
+      "path": "Simple pricing for your Business",
+      "file": "./pages/index.vue",
+      "line": 362,
+      "language": "extracted"
+    },
+    {
+      "path": "We have several powerful plans to showcase your business and get discovered as a creative entrepreneurs. Everything you need. ",
+      "file": "./pages/index.vue",
+      "line": 365,
+      "language": "extracted"
+    },
+    {
+      "path": "our clients testimonials",
+      "file": "./pages/index.vue",
+      "line": 386,
+      "language": "extracted"
+    },
+    {
+      "path": "ali mohammed",
+      "file": "./pages/index.vue",
+      "line": 399,
+      "language": "extracted"
+    },
+    {
+      "path": "I am so happy with your company. Ever since my insurer switched to you, everything and everybody I've spoken to has been extremely, extremely pleasant, helpful, and they listen to my concerns instead of just saying okay!",
+      "file": "./pages/index.vue",
+      "line": 402,
+      "language": "extracted"
+    },
+    {
+      "path": "ali mohammed",
+      "file": "./pages/index.vue",
+      "line": 410,
+      "language": "extracted"
+    },
+    {
+      "path": "I am so happy with your company. it's very good company to work with Ever since my insurer switched to you, everything and everybody I've spoken to has been extremely, extremely pleasant, helpful, and they listen to my concerns instead of just saying okay!",
+      "file": "./pages/index.vue",
+      "line": 413,
+      "language": "extracted"
+    },
+    {
+      "path": "ali mohammed",
+      "file": "./pages/index.vue",
+      "line": 421,
+      "language": "extracted"
+    },
+    {
+      "path": "I am so happy with your company. Ever since my insurer switched to you, everything and everybody I've spoken to has been extremely, extremely pleasant, helpful, and they listen to my concerns instead of just saying okay!",
+      "file": "./pages/index.vue",
+      "line": 424,
+      "language": "extracted"
+    },
+    {
+      "path": "ali mohammed",
+      "file": "./pages/index.vue",
+      "line": 432,
+      "language": "extracted"
+    },
+    {
+      "path": "I am so happy with your company. Ever since my insurer switched to you, everything and everybody I've spoken to has been extremely, extremely pleasant, helpful, and they listen to my concerns instead of just saying okay!",
+      "file": "./pages/index.vue",
+      "line": 435,
+      "language": "extracted"
+    }
+  ],
+  "unusedKeys": [
+    {
+      "path": "english",
+      "file": "./plugins/i18n/locales/ar.json",
+      "language": "ar"
+    },
+    {
+      "path": "arabic",
+      "file": "./plugins/i18n/locales/ar.json",
+      "language": "ar"
+    },
+    {
+      "path": "focus-marketing-solutions",
+      "file": "./plugins/i18n/locales/ar.json",
+      "language": "ar"
+    },
+    {
+      "path": "welcome to",
+      "file": "./plugins/i18n/locales/ar.json",
+      "language": "ar"
+    },
+    {
+      "path": "We're a creative team dedicated to driving your business forward with innovative marketing strategies",
+      "file": "./plugins/i18n/locales/ar.json",
+      "language": "ar"
+    },
+    {
+      "path": "From digital marketing to social media management, we're here to help you succeed",
+      "file": "./plugins/i18n/locales/ar.json",
+      "language": "ar"
+    },
+    {
+      "path": "Let's build something extraordinary together",
+      "file": "./plugins/i18n/locales/ar.json",
+      "language": "ar"
+    },
+    {
+      "path": "english",
+      "file": "./plugins/i18n/locales/en.json",
+      "language": "en"
+    },
+    {
+      "path": "arabic",
+      "file": "./plugins/i18n/locales/en.json",
+      "language": "en"
+    },
+    {
+      "path": "focus-marketing-solutions",
+      "file": "./plugins/i18n/locales/en.json",
+      "language": "en"
+    },
+    {
+      "path": "welcome to",
+      "file": "./plugins/i18n/locales/en.json",
+      "language": "en"
+    },
+    {
+      "path": "We're a creative team dedicated to driving your business forward with innovative marketing strategies",
+      "file": "./plugins/i18n/locales/en.json",
+      "language": "en"
+    },
+    {
+      "path": "From digital marketing to social media management, we're here to help you succeed",
+      "file": "./plugins/i18n/locales/en.json",
+      "language": "en"
+    },
+    {
+      "path": "Let's build something extraordinary together",
+      "file": "./plugins/i18n/locales/en.json",
+      "language": "en"
+    },
+    {
+      "path": "missingKeys[0].path",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[0].file",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[0].line",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[0].language",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[1].path",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[1].file",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[1].line",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[1].language",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[2].path",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[2].file",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[2].line",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[2].language",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[3].path",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[3].file",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[3].line",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[3].language",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[4].path",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[4].file",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[4].line",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[4].language",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[5].path",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[5].file",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[5].line",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[5].language",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[6].path",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[6].file",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[6].line",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[6].language",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[7].path",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[7].file",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[7].line",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "missingKeys[7].language",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "unusedKeys[0].path",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "unusedKeys[0].file",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "unusedKeys[0].language",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "unusedKeys[1].path",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "unusedKeys[1].file",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "unusedKeys[1].language",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "unusedKeys[2].path",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "unusedKeys[2].file",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "unusedKeys[2].language",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "unusedKeys[3].path",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "unusedKeys[3].file",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "unusedKeys[3].language",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "maybeDynamicKeys",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "focus-marketing-solutions",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    },
+    {
+      "path": "welcome to",
+      "file": "./plugins/i18n/locales/extracted.json",
+      "language": "extracted"
+    }
+  ],
+  "maybeDynamicKeys": [],
+  "Transform your business with our": "",
+  "Creative Marketing Solutions!": "",
+  " Welcome to Focus Marketing Solutions! We're a creative team dedicated to driving your business forward with innovative marketing strategies": {
+    " From digital marketing to social media management, we're here to help you succeed": {
+      " Let's build something extraordinary together": {
+        "": ""
+      }
+    }
+  },
+  "contact us": "",
+  "join us": "",
+  "Our Partners": "",
+  "about us": "",
+  "welcome-to": "",
+  "focus marketing solutions": "",
+  "We're a creative team dedicated to driving your business forward with innovative marketing strategies": {
+    " From digital marketing to social media management, we\\'re here to help you succeed": {
+      "": ""
+    }
+  },
+  "Let's build something extraordinary together": {
+    "": ""
+  },
+  "read more": "",
+  "our services": "",
+  "transforming your online presence with innovative digital strategies": "",
+  "the company's philosophy": "",
+  "We bear the responsibility of developing the sector": {
+    "": ""
+  },
+  "Elevate your brand with our comprehensive marketing solutions,including Digital Marketing, Content Creation, and Social Media Strategy": {
+    " Enhance visibility through expert SEO and PPC management, ": ""
+  },
+  "clients": "",
+  "branches": "",
+  "number of employees": "",
+  "sales representative": "",
+  "statistics": "",
+  "news": "",
+  "view all news": "",
+  "Simple pricing for your Business": "",
+  "We have several powerful plans to showcase your business and get discovered as a creative entrepreneurs": {
+    " Everything you need": {
+      " ": ""
+    }
+  },
+  "our clients testimonials": "",
+  "ali mohammed": "",
+  "I am so happy with your company": {
+    " Ever since my insurer switched to you, everything and everybody I've spoken to has been extremely, extremely pleasant, helpful, and they listen to my concerns instead of just saying okay!": "",
+    " it's very good company to work with Ever since my insurer switched to you, everything and everybody I've spoken to has been extremely, extremely pleasant, helpful, and they listen to my concerns instead of just saying okay!": ""
+  }
+}
