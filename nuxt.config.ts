@@ -11,6 +11,15 @@ export default defineNuxtConfig({
     transpile: ['vuetify'],
   },
 
+  nitro: {
+    preset: 'vercel',
+    storage: {
+      data: {
+        driver: 'vercelKV'
+      }
+    },
+  },
+
   css: [
     '~/assets/styles/css/tailwind.css',
     '~/assets/styles/scss/main.scss', 
@@ -50,11 +59,20 @@ export default defineNuxtConfig({
   
 
   vite: {
+    build: {
+      sourcemap: false,
+      rollupOptions: {
+        output: {
+          manualChunks: undefined,
+        },
+      },
+    },
     vue: {
       template: {
         transformAssetUrls,
       },
     },
+
     plugins: [
       vuetify({
         autoImport: true,
