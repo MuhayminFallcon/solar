@@ -2,20 +2,11 @@
   "version": 2,
   "builds": [
     {
-      "env": {
-        "NODE_OPTIONS": "--max-old-space-size=8192"
-      }
-    },
-    {
       "src": "nuxt.config.ts",
       "use": "@nuxtjs/vercel-builder",
       "config": {
         "serverFiles": ["server-middleware/**"]
       }
-    },
-    {
-      "src": "api/**/*.js",
-      "use": "@vercel/node"
     }
   ],
   "routes": [
