@@ -1,3 +1,4 @@
+import { defineNuxtConfig } from 'nuxt/config';
 import vuetify, { transformAssetUrls } from 'vite-plugin-vuetify';
 
 export default defineNuxtConfig({
@@ -31,6 +32,7 @@ export default defineNuxtConfig({
     '@nuxtjs/i18n',
     '@pinia/nuxt',
     '@nuxt/image',
+    '@nuxtjs/vercel-builder',
   ],
 
   tailwindcss: {
@@ -61,7 +63,7 @@ export default defineNuxtConfig({
       sourcemap: false,
       rollupOptions: {
         output: {
-          manualChunks: (id) => {
+          manualChunks: (id: string) => {
             if (id.includes('node_modules')) {
               return 'vendor';
             }

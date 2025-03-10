@@ -1,14 +1,21 @@
 {
-      "compilerOptions": {
-        "target": "esnext",
-        "module": "esnext",
-        "moduleResolution": "node",
-        "strict": true,
-        "jsx": "preserve",
-        "esModuleInterop": true,
-        "allowJs": true,
-        "skipLibCheck": true,
-        "types": ["@nuxt/types", "@nuxtjs/axios", "@types/node"]
-      },
-      "exclude": ["node_modules", ".nuxt", "dist"]
-    }
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "strict": true,
+    "jsx": "preserve",
+    "importHelpers": true,
+    "moduleResolution": "node",
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["./*"],
+      "@/*": ["./*"]
+    },
+    "types": ["@nuxt/types", "@nuxtjs/axios", "@types/node"]
+  },
+  "exclude": ["node_modules", ".nuxt", "dist"]
+}
